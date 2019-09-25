@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Price Bitcoin</string>
+    <string name="app_name">Bitcoin Price</string>
+    <string name="chart_name">Bitcoin Price In The Last Year"</string>
+    <string name="last_price_title">Market Price (USD)"</string>
+    <string name="dialog_unknown_error_message">An error has occurred, please try again.</string>
+    <string name="dialog_connectivity_message">Could not establish connection to server, please check your internet connection.</string>
+
 </resources>

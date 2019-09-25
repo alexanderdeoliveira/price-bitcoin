@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bitcoin Price</string>
+    <string name="chart_name">Preço do bitcoin no último ano</string>
+    <string name="last_price_title">Preço de Mercado (USD)"</string>
+    <string name="dialog_unknown_error_message">Um erro ocorreu, por favor, tente novamente.</string>
+    <string name="dialog_connectivity_message">Não foi possível estabelecer conexão com o servidor, por favor, verifique sua conexão com a internet.</string>
+
+</resources>
